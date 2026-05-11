@@ -1270,6 +1270,7 @@ Schalter.
 
 <pre style="font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 1.35; color:#000; padding:20px 16px 12px; border:1px solid #bbb; white-space: pre; display: inline-block; margin: 6px 0; background:#fafaf5;"><b><b><ins>8.  Zusammenfassung der Kommandos:</ins></b></b>
 
+<a id="Hauptmenu"></a>  
 <b>Hauptmenü:
 
 PERS   SEQU   HELP   KOIN   RDAT   FPIX   COLO   &gt;L/S
