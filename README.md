@@ -15,7 +15,7 @@ Das Programm wurde auf der [5. Computerfachtagung in Frankfurt (Oder)](https://w
 
 Aus der Erinnerung von Andreas Thierbach:
 
-"Als Student der Fachrichtung Städtebau an der Hochschule für Architektur und Bauwesen (HAB) Weimar war ich von den Möglichkeiten der Computergrafik fasziniert. Den Einstieg fand ich mit den ersten KCs im Computerclub der Hochschule in der Programmiersprache Basic. Nebenan im Rechenzentrum wurden noch Programme der Studenten in Lochkarten gestanzt. Nachdem ich dann als Assistent an der HAB einen eigenen KC 85 erwerben konnte, war dem nächtlichen "Experimentieren" keine Grenzen mehr gesetzt. Mit den ersten selbst gesteuerten "schnellen" Linien auf dem kleinen Schwarz-Weiß-Fernseher war mein Ehrgeiz entfacht."
+*"Als Student der Fachrichtung Städtebau an der Hochschule für Architektur und Bauwesen (HAB) Weimar war ich von den Möglichkeiten der Computergrafik fasziniert. Den Einstieg fand ich mit den ersten KCs im Computerclub der Hochschule in der Programmiersprache Basic. Nebenan im Rechenzentrum wurden noch Programme der Studenten in Lochkarten gestanzt. Nachdem ich dann als Assistent an der HAB einen eigenen KC 85 erwerben konnte, war dem nächtlichen "Experimentieren" keine Grenzen mehr gesetzt. Mit den ersten selbst gesteuerten "schnellen" Linien auf dem kleinen Schwarz-Weiß-Fernseher war mein Ehrgeiz entfacht."*
 
 # Überblick
 Das Programm dient der Modellierung geometrischer, formgestalterischer und architektonischer Körper. Die Anwendungsschwerpunkte liegen in der Vermittlung des Raum-Körper-Vorstellungsvermögens, der perspektivischen Darstellung sowie der konkreten Planung in Architektur und Stadtplanung.
