@@ -112,7 +112,7 @@ Besonderer Dank geht an Andreas Thierbach für die Hilfe bei der Sichtung und Re
 
 # Quellen
 
-Dieses Projekt nutzt Infos und Software aus den u.g. Quellen:
+Dieses Projekt nutzt Informationen und Software aus den u.g. Quellen:
 
 https://www.mpm-kc85.de/html/D001BasisDevise.htm
 
@@ -120,9 +120,9 @@ https://www.mpm-kc85.de/html/D004FD.htm
 
 https://www.mpm-kc85.de/html/m027_entwicklung.htm
 
-http://kc85.info/
-
 http://www.jens-mueller.org/jkcemu/
+
+http://kc85.info/
 
 
 
