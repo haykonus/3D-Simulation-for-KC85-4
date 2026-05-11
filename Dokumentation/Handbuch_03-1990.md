@@ -1446,7 +1446,7 @@ WAHL   AUGE   BILD   NPIX   DEFE   ELIN   MANI   GRAF
 
                                  — 24 —</pre>
 
-<pre style="font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 1.35; color:#000; padding:20px 16px 12px; border:1px solid #bbb; white-space: pre; display: inline-block; margin: 6px 0; background:#fafaf5;"><b><b><ins>12. Literatur:</ins></b></b>
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 1.35; color:#000; padding:20px 16px 12px; border:1px solid #bbb; white-space: pre; display: inline-block; margin: 6px 0; background:#fafaf5;"><b><b><ins>11. Literatur:</ins></b></b>
 
 /1/ Thomae, Reiner: Perspektive und Axonometrie, Verlag Kohlhammer
     1976
