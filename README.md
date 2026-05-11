@@ -7,7 +7,7 @@ In einer Zeit, in der professionelle CAD-Systeme meist auf teuren Workstations l
 ![](/Bilder/3D-start.gif)
 
 # Historischer Kontext
-Diese Software ist ein sehr interessantes Dokument der DDR-Computergeschichte im Bereich der Softwareentwicklung. Sie beinhaltet ein komplettes Programmpaket, inkl. [Handbuch](/Dokumentation/Handbuch_03-1990.tx), mit umfangreichen Funktionen zur Modellierung und Animation von komplexen 3D-Strukturen. Die Software wurde im Zeitraum 1986-90 von Andreas Thierbach programmiert. 
+Diese Software ist ein sehr interessantes Dokument der DDR-Computergeschichte im Bereich der Softwareentwicklung. Sie beinhaltet ein komplettes Programmpaket, inkl. [Handbuch](/Dokumentation/Handbuch_03-1990.txt), mit umfangreichen Funktionen zur Modellierung und Animation von komplexen 3D-Strukturen. Die Software wurde im Zeitraum 1986-90 von Andreas Thierbach programmiert. 
 
 Als Student in der Fachrichtung Städtebau an der Hochschule für Architektur und Bauwesen (HAB) Weimar war er von den Möglichkeiten der Computergrafik fasziniert. Den Einstieg fand er mit den ersten KCs im Computerclub der Hochschule in der Programmiersprache Basic. Nebenan im Rechenzentrum wurden noch Programme der Studenten in Lochkarten gestanzt. Nachdem er dann als Assistent an der HAB einen eigenen KC 85 erwerben konnte, waren dem nächtlichen "Experimentieren" keine Grenzen mehr gesetzt. Mit den ersten selbst gesteuerten "schnellen" Linien auf dem kleinen Schwarz-Weiß-Fernseher war sein Ehrgeiz entfacht. 
 
