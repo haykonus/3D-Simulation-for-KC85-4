@@ -7,7 +7,7 @@ In einer Zeit, in der professionelle CAD-Systeme meist auf teuren Workstations l
 ![](/Bilder/3D-start.gif)
 
 # Historischer Kontext
-Diese Software ist ein sehr interessantes Dokument der DDR-Computergeschichte im Bereich der Softwareentwicklung. Sie beinhaltet ein komplettes Programmpaket, inkl. [Handbuch (deutsch)](/Dokumentation/Handbuch_03-1990.md), mit umfangreichen Funktionen zur Modellierung und Animation von komplexen 3D-Strukturen. Die Software wurde im Zeitraum 1986-90 von Andreas Thierbach programmiert. 
+Diese Software ist ein sehr interessantes Dokument der DDR-Computergeschichte im Bereich Softwareentwicklung. Sie beinhaltet ein komplettes Programmpaket, inkl. [Handbuch (deutsch)](/Dokumentation/Handbuch_03-1990.md), mit umfangreichen Funktionen zur Modellierung und Animation von komplexen 3D-Strukturen. Die Software wurde im Zeitraum 1986-90 von Andreas Thierbach programmiert. 
 
 Die Kleincomputer [KC 85 3/4](https://www.mpm-kc85.de/html/D001BasisDevise.htm) waren, verglichen mit den Heimcomputern Mitte der 80'er Jahre, mit einer guten Grafikauflösung ausgestattet, hatten jedoch keine spezielle Hardware zur Grafikbeschleunigung und waren vollständig auf die Leistung der CPU mit nur 1,77 MHz Taktfrequenz angewiesen. Die notwendige Verarbeitungsgeschwindigkeit für die Berechnung der 3D-Modelle und für deren Visualisierung war somit nur durch Programmierung in Maschinensprache zu erreichen. Herr Thierbach erlernte als Autodidakt im Selbststudium in U880-Assembler zu programmieren und erstellte das Programm auf dem KC-Entwicklungssystem [EDAS](https://www.mpm-kc85.de/html/m027_entwicklung.htm).
 
