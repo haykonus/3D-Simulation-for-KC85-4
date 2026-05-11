@@ -844,8 +844,10 @@ Anzeigen und Kommandos möglich:
 <b>-&gt; 1:</b>          Schrittweite  1
 <b>-&gt; 5:</b>          Schrittweite  5 (Achtung: SPEED zu schnell!)
 <b>-&gt; 0:</b>          Schrittweite 10 (Achtung: SPEED zu schnell!)
+  
 <b>Grafische Funktionen des Fadenkreuzes:</b>
-<b>-&gt; W:</b>           Walk - Bewegen ohne Veränderung des Bildes 
+  
+<b>-&gt; W:</b>          Walk - Bewegen ohne Veränderung des Bildes 
 <b>-&gt; P:</b>          Pen  - Zeichenstift     
 <b>-&gt; R:</b>          Radierfunktion   
 
