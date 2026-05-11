@@ -57,7 +57,7 @@ Der Datenspeicher wird vollautomatisch verwaltet und ist volldynamisch. Die Date
 
 ## Funktionskatalog
 
-- [Handbuch (MD,deutsch)](/Dokumentation/Handbuch_03-1990.md)
+- [Handbuch (MD, deutsch)](/Dokumentation/Handbuch_03-1990.md)
 - [Handbuch (Wordstar, deutsch)](/Dokumentation/Handbuch_03-1990.txt) (deutsch)
 
 ## Bedienkonzept
