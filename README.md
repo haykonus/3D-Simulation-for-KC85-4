@@ -64,7 +64,7 @@ Der Datenspeicher wird vollautomatisch verwaltet und ist volldynamisch. Die Date
 *   **Fadenkreuztechnik:** Anwahl von Koordinaten mittels Fadenkreuz direkt auf dem Bildschirm, gesteuert durch Cursortasten.
 
 # Entwicklungssystem
-Das Original Entwicklungssystem von Andreas Thierbach.
+Das Original-Entwicklungssystem von Andreas Thierbach.
 
 ![](/Bilder/KC-50.jpg)
 
