@@ -87,6 +87,7 @@ Alle Daten sind abruf- und manipulierbar.
 - FPIX: Einstellung Pixelfenster-Begrenzung
 - COLO: Einstellung Linien- und Hintergrundfarben
 - TAFU: Anzeige der wichtigsten Tastenfunktionen
+- > L/S: Datei laden, retten, verknüpfen, hardcopy
 
 ---
 *Mikroprozessortechnik, Berlin 2 (1988) 11, S. 328*
