@@ -94,6 +94,9 @@ Im Programm 3D-Grafik:
 Taste ">"
 Taste "L"
 Eingeben: "STREET.DWG" <Enter>
+
+Nachdem die Daten fertig geladen wurden:
+
 Taste "P"
 ```
 
