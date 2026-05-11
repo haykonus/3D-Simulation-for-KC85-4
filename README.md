@@ -9,11 +9,13 @@ In einer Zeit, in der professionelle CAD-Systeme meist auf teuren Workstations l
 # Historischer Kontext
 Diese Software ist ein sehr interessantes Dokument der DDR-Computergeschichte im Bereich der Softwareentwicklung. Sie beinhaltet ein komplettes Programmpaket, inkl. [Handbuch (deutsch)](/Dokumentation/Handbuch_03-1990.md), mit umfangreichen Funktionen zur Modellierung und Animation von komplexen 3D-Strukturen. Die Software wurde im Zeitraum 1986-90 von Andreas Thierbach programmiert. 
 
-Als Student der Fachrichtung Städtebau an der Hochschule für Architektur und Bauwesen (HAB) Weimar war er von den Möglichkeiten der Computergrafik fasziniert. Den Einstieg fand er mit den ersten KCs im Computerclub der Hochschule in der Programmiersprache Basic. Nebenan im Rechenzentrum wurden noch Programme der Studenten in Lochkarten gestanzt. Nachdem er dann als Assistent an der HAB einen eigenen KC 85 erwerben konnte, waren dem nächtlichen "Experimentieren" keine Grenzen mehr gesetzt. Mit den ersten selbst gesteuerten "schnellen" Linien auf dem kleinen Schwarz-Weiß-Fernseher war sein Ehrgeiz entfacht. 
-
 Die Kleincomputer [KC 85 3/4](https://www.mpm-kc85.de/html/D001BasisDevise.htm) waren, verglichen mit den Heimcomputern Mitte der 80'er Jahre, mit einer guten Grafikauflösung ausgestattet, hatten jedoch keine spezielle Hardware zur Grafikbeschleunigung und waren vollständig auf die Leistung der CPU mit nur 1,77 MHz Taktfrequenz angewiesen. Die notwendige Verarbeitungsgeschwindigkeit für die Berechnung der 3D-Modelle und für deren Visualisierung war somit nur durch Programmierung in Maschinensprache zu erreichen. Herr Thierbach erlernte als Autodidakt im Selbststudium in U880-Assembler zu programmieren und erstellte das Programm auf dem KC-Entwicklungssystem [EDAS](https://www.mpm-kc85.de/html/m027_entwicklung.htm).
 
 Das Programm wurde auf der [5. Computerfachtagung in Frankfurt (Oder)](https://www.kc85emu.de/scans/fa0189/Tagung.htm) vorgestellt und für einige städtebauliche Visualisierungen u.a. im Büro für Stadtplanung beim Rat der Stadt Frankfurt (Oder) verwendet.
+
+Aus der Erinnerung von Andreas Thierbach:
+
+"Als Student der Fachrichtung Städtebau an der Hochschule für Architektur und Bauwesen (HAB) Weimar war ich von den Möglichkeiten der Computergrafik fasziniert. Den Einstieg fand ich mit den ersten KCs im Computerclub der Hochschule in der Programmiersprache Basic. Nebenan im Rechenzentrum wurden noch Programme der Studenten in Lochkarten gestanzt. Nachdem ich dann als Assistent an der HAB einen eigenen KC 85 erwerben konnte, war dem nächtlichen "Experimentieren" keine Grenzen mehr gesetzt. Mit den ersten selbst gesteuerten "schnellen" Linien auf dem kleinen Schwarz-Weiß-Fernseher war mein Ehrgeiz entfacht."
 
 # Überblick
 Das Programm dient der Modellierung geometrischer, formgestalterischer und architektonischer Körper. Die Anwendungsschwerpunkte liegen in der Vermittlung des Raum-Körper-Vorstellungsvermögens, der perspektivischen Darstellung sowie der konkreten Planung in Architektur und Stadtplanung.
