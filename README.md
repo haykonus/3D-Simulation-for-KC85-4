@@ -1,7 +1,7 @@
 [Deutsch](https://github.com/haykonus/3D-Simulation-for-KC85-4) | [English](https://github-com.translate.goog/haykonus/3D-Simulation-for-KC85-4?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 
 <details>
-<summary> <b>Inhalt</b> </summary>
+<summary> <b>Inhalt</b> <br> </summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
