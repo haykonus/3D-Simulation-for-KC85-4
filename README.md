@@ -2,8 +2,31 @@
 
 # Inhalt
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- ["3D-Simulation" für den KC85/4](#3d-simulation-f%C3%BCr-den-kc854)
+- [Historischer Kontext](#historischer-kontext)
+- [Überblick](#%C3%9Cberblick)
+- [Arbeitsprinzip und Modellbegriff](#arbeitsprinzip-und-modellbegriff)
+- [Technische Spezifikationen](#technische-spezifikationen)
+  - [Hardware-Anforderungen](#hardware-anforderungen)
+  - [Datenmengen](#datenmengen)
+  - [Rechenzeiten](#rechenzeiten)
+  - [Funktionskatalog](#funktionskatalog)
+  - [Handbuch](#handbuch)
+  - [Bedienkonzept](#bedienkonzept)
+- [Entwicklungssystem](#entwicklungssystem)
+- [Emulator](#emulator)
+  - [Einstellungen](#einstellungen)
+  - [Programm starten](#programm-starten)
+  - [Grafik laden und anzeigen](#grafik-laden-und-anzeigen)
+- [Lizenz](#lizenz)
+- [Danksagung](#danksagung)
+- [Quellen](#quellen)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # "3D-Simulation" für den KC85/4
 In einer Zeit, in der professionelle CAD-Systeme meist auf teuren Workstations liefen, demonstrierte dieses Programm, dass auch auf 8-Bit-Heimcomputern der [KC 85 3/4-Serie](https://www.mpm-kc85.de/html/D001BasisDevise.htm), basierend auf dem U880-Prozessor (Z80 Klon), komplexe 3D-Visualisierungen möglich waren. Das Projekt wurde im DDR-Fachmagazin **Mikroprozessortechnik** (Ausgabe 2, 1988) ([PDF](/MP/MP_88_11_3D-Grafik.pdf), [MD](/MP/MP_88_11_3D-Grafik_S328.md)) veröffentlicht. Restaurierung und Aufbereitung erfolgten im Zeitraum 04/2025 - 05/2026.
