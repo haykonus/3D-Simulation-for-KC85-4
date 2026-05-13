@@ -221,7 +221,7 @@ Das Programm kann im [JKCEMU](http://www.jens-mueller.org/jkcemu/) mit folgenden
 ![](/Bilder/JKCEMU-1.PNG)
 ![](/Bilder/JKCEMU-2.PNG)
 ![](/Bilder/JKCEMU-3-75.PNG)
-![](/Bilder/DISK.png)
+![](/Bilder/DISK2.png)
 
 Als Diskette das Verzeichnis [/Disketten/Work](/Disketten/Work) einbinden.
 
