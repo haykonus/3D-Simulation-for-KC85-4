@@ -1,10 +1,9 @@
 [Deutsch](https://github.com/haykonus/3D-Simulation-for-KC85-4) | [English](https://github-com.translate.goog/haykonus/3D-Simulation-for-KC85-4?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 
 <details>
-
+<summary> Inhalt</summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Inhalt
 
 - ["3D-Simulation" für den KC85/4](#3d-simulation-f%C3%BCr-den-kc854)
 - [Historischer Kontext](#historischer-kontext)
