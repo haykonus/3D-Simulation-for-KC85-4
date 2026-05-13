@@ -4,7 +4,7 @@
 <summary> <b>Inhalt</b> </summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Inhalt
+**Table of Contents**
 
 - ["3D-Simulation" für den KC85/4](#3d-simulation-f%C3%BCr-den-kc854)
 - [Historischer Kontext](#historischer-kontext)
