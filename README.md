@@ -87,7 +87,7 @@ N = Anzahl der gespeicherten Raumpunkte, Gesamtspeicherverbrauch: ca. N * 16 Byt
 
 Der Datenspeicher wird vollautomatisch verwaltet und ist volldynamisch. Die Datenblöcke beanspruchen immer den minimal notwendigen Speicherraum.
 
-## Funktionskatalog
+# Funktionskatalog
 
 <pre style="font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 1.35; color:#000; padding:20px 16px 12px; border:1px solid #bbb; white-space: pre; display: inline-block; margin: 6px 0; background:#fafaf5;">
 
@@ -231,12 +231,12 @@ WAHL   AUGE   BILD   NPIX   DEFE   ELIN   MANI   GRAF
 
 </ins></b></b></pre>
 
-## Handbuch
+# Handbuch
 
 - [Handbuch (MD, deutsch)](/Dokumentation/Handbuch_03-1990.md)
 - [Handbuch (Wordstar, deutsch)](/Dokumentation/Handbuch_03-1990.txt)
 
-## Bedienkonzept
+# Bedienkonzept
 
 *   **Menütechnik:** Funktionen werden direkt über den Anfangsbuchstaben des jeweiligen Befehls aufgerufen (z. B. "P" für PERS).
 *   **Fadenkreuztechnik:** Anwahl von Koordinaten mittels Fadenkreuz direkt auf dem Bildschirm, gesteuert durch Cursortasten.
