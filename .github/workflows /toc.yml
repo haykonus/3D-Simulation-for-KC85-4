@@ -1,1 +1,27 @@
+name: Generate TOC
 
+on:
+  #push:
+  #  branches:
+  #    - main
+  #  paths:
+  #    - 'README.md'
+  
+  workflow_dispatch: # Ermöglicht den manuellen Start-Button
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: # Erforderlich, damit die Action Änderungen hochladen darf
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate TOC
+        uses: technote-space/toc-generator@v4
+        with:
+          TARGET_PATHS: 'README.md'
+          #TOC_TITLE: '## Inhaltsverzeichnis'
+          COMMIT_MESSAGE: 'chore: update table of conte
