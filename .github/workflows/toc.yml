@@ -24,5 +24,5 @@ jobs:
         uses: technote-space/toc-generator@v4
         with:
           TARGET_PATHS: 'README.md'
-          #TOC_TITLE: '## Inhaltsverzeichnis'
+          TOC_TITLE: '## Inhalt'
           COMMIT_MESSAGE: 'chore: update table of contents [skip ci]'
