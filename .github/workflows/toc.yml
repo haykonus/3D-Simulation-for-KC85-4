@@ -25,4 +25,4 @@ jobs:
         with:
           TARGET_PATHS: 'README.md'
           #TOC_TITLE: '## Inhaltsverzeichnis'
-          COMMIT_MESSAGE: 'chore: update table of conte
+          COMMIT_MESSAGE: 'chore: update table of contents [skip ci]'
