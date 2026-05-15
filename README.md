@@ -248,7 +248,7 @@ Das Original-Entwicklungssystem von Andreas Thierbach.
 
 # Emulator
 ## Einstellungen
-Das Programm in der Original-Konfiguration kann im [JKCEMU](http://www.jens-mueller.org/jkcemu/) mit folgenden Einstellungen emuliert werden:
+Das Programm kann im [JKCEMU](http://www.jens-mueller.org/jkcemu/) mit folgenden Einstellungen in der Original-Konfiguration emuliert werden:
 
 ![](/Bilder/JKCEMU-11.PNG)
 
