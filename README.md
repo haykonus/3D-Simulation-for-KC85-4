@@ -324,19 +324,26 @@ Der Autor hat das Programm zur Veröffentlichung für Demonstrationen im Kontext
 
 Besonderer Dank geht an Andreas Thierbach für die Hilfe bei der Sichtung und Restaurierung der alten Datenbestände sowie an Peter Salomon, der durch seine Erinnerungen an die [5. Computerfachtagung in Frankfurt (Oder)](https://www.kc85emu.de/scans/fa0189/Tagung.htm) den Anstoß zu diesem Projekt gab.
 
+# Kontakt
+
+Informationen zum Projekt oder Unterstützung bei der Präsentation der Software können angefragt werden bei:
+
+Heiko Strugalla \
+e-Mail: h.strugalla@peppermint.de
+
 # Quellen
 
-Dieses Projekt nutzt Informationen und Software aus den u.g. Quellen:
+[1] Dieses Projekt nutzt Informationen und Software aus den u.g. Quellen:
 
-https://www.mpm-kc85.de/html/D001BasisDevise.htm
+[2] https://www.mpm-kc85.de/html/D001BasisDevise.htm
 
-https://www.mpm-kc85.de/html/D004FD.htm
+[3] https://www.mpm-kc85.de/html/D004FD.htm
 
-https://www.mpm-kc85.de/html/m027_entwicklung.htm
+[4] https://www.mpm-kc85.de/html/m027_entwicklung.htm
 
-http://www.jens-mueller.org/jkcemu/
+[5] http://www.jens-mueller.org/jkcemu/
 
-http://kc85.info/
+[6] http://kc85.info/
 
 
 
