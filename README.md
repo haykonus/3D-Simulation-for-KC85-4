@@ -60,11 +60,10 @@ Das Programm folgt dem Prinzip eines digitalen Baukastens. Nutzer erstellen „M
 
 ## Beispiel "CAR"
 
-![](/Bilder/car.gif)
+|  |  |  |
+| :---: | :---: | :---: |
+| ![](/Bilder/car.gif) |  ![](/Bilder/car1.png) | ![](/Bilder/car2.png) |
 
-![](/Bilder/car1.png)
-
-![](/Bilder/car2.png)
 
 # Technische Spezifikationen
 ## Hardware-Anforderungen
