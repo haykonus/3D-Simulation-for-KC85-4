@@ -339,17 +339,17 @@ e-Mail: h.strugalla@peppermint.de
 
 # Quellen
 
-[1] Dieses Projekt nutzt Informationen und Software aus den u.g. Quellen:
+Dieses Projekt nutzt Informationen und Software aus den u.g. Quellen:
 
-[2] https://www.mpm-kc85.de/html/D001BasisDevise.htm
+[1] https://www.mpm-kc85.de/html/D001BasisDevise.htm
 
-[3] https://www.mpm-kc85.de/html/D004FD.htm
+[2] https://www.mpm-kc85.de/html/D004FD.htm
 
-[4] https://www.mpm-kc85.de/html/m027_entwicklung.htm
+[3] https://www.mpm-kc85.de/html/m027_entwicklung.htm
 
-[5] http://www.jens-mueller.org/jkcemu/
+[4] http://www.jens-mueller.org/jkcemu/
 
-[6] http://kc85.info/
+[5] http://kc85.info/
 
 
 
