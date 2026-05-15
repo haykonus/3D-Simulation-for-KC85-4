@@ -250,7 +250,7 @@ Das Original-Entwicklungssystem von Andreas Thierbach.
 ## Einstellungen
 Das Programm kann im [JKCEMU](http://www.jens-mueller.org/jkcemu/) mit folgenden Einstellungen emuliert werden:
 
-![](/Bilder/JKCEMU-1.PNG)
+![](/Bilder/JKCEMU-11.PNG)
 
 ![](/Bilder/JKCEMU-2.PNG)
 
