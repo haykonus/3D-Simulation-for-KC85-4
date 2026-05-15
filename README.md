@@ -280,7 +280,7 @@ WAHL   AUGE   BILD   NPIX   DEFE   ELIN   MANI   GRAF
 *   **Fadenkreuztechnik:** Anwahl von Koordinaten mittels Fadenkreuz direkt auf dem Bildschirm, gesteuert durch Cursortasten.
 
 # Entwicklungssystem
-Das KC-Entwicklungssystem von Andreas Thierbach. Es wurde im Rahmen dieses Projekts ebenfalls restauriert. mit Ausnahme des Monitors. Damals wurde ein Farb-TV-Gerät mit SCART-Eingang (RGB) verwendet. 
+Das Bild unten zeigt das KC-Entwicklungssystem von Andreas Thierbach. Es wurde im Rahmen dieses Projekts ebenfalls restauriert, mit Ausnahme des Monitors. Damals wurde ein Farb-TV-Gerät mit SCART-Eingang (RGB) verwendet. 
 
 ![](/Bilder/KC-50.jpg)
 
