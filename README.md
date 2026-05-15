@@ -38,7 +38,7 @@
 # "3D-Simulation" für den KC85/4
 In einer Zeit, in der professionelle CAD-Systeme meist auf teuren Workstations liefen, demonstrierte dieses Programm, dass auch auf 8-Bit-Heimcomputern der [KC 85 3/4-Serie](https://www.mpm-kc85.de/html/D001BasisDevise.htm), basierend auf dem U880-Prozessor (Z80 Klon), komplexe 3D-Visualisierungen möglich waren. Das Projekt wurde im DDR-Fachmagazin **Mikroprozessortechnik** (Ausgabe 2, 1988) ([PDF](/MP/MP_88_11_3D-Grafik.pdf), [MD](/MP/MP_88_11_3D-Grafik_S328.md)) veröffentlicht. Eine Ergänzung gab es 1990 ([PDF](/MP/MP_90_3D-Grafik_S29.pdf)). 
 
-Restaurierung und Aufbereitung erfolgten im Zeitraum 04/2025 - 05/2026. [(Kontakt)](#kontakt).
+Restaurierung und Aufbereitung erfolgten im Zeitraum 04/2025 - 05/2026. [(Kontakt)](#kontakt)
 
 <br>
 
