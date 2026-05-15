@@ -58,6 +58,8 @@ Das Programm folgt dem Prinzip eines digitalen Baukastens. Nutzer erstellen „M
 *   **Drahtmodell-Ansatz:** Im Gegensatz zu modernen Volumenmodellen nutzt das Programm ein Kanten- und Drahtmodell. Jedes Objekt wird über seine Eckpunkte im kartesischen Koordinatenraum definiert.
 *   **Transformation:** Die digitalen Modelldaten werden nach mathematischen Regeln der perspektivischen Darstellung auf die Bildebene transformiert und als Linienmodell ausgegeben.
 
+# Arbeitsproben
+
 ## Beispiel 1 "CAR"
 
 <p float="left">
@@ -72,6 +74,20 @@ Das Programm folgt dem Prinzip eines digitalen Baukastens. Nutzer erstellen „M
   <img src="/Bilder/haus.gif"  />
   &nbsp;&nbsp;
   <img src="/Bilder/haus.png"  />
+</p>
+
+## Beispiel 3 "HALLE"
+
+<p float="left">
+  <img src="/Bilder/halle.gif"  />
+  &nbsp;&nbsp;
+  <img src="/Bilder/halle.png"  />
+</p>
+
+## Beispiel 4 "LANDSCHAFT"
+
+<p float="left">
+  <img src="/Bilder/street.gif"  />
 </p>
 
 # Technische Spezifikationen
