@@ -63,6 +63,9 @@ Das Programm folgt dem Prinzip eines digitalen Baukastens. Nutzer erstellen „M
 
 *   **Drahtmodell-Ansatz:** Im Gegensatz zu modernen Volumenmodellen nutzt das Programm ein Kanten- und Drahtmodell. Jedes Objekt wird über seine Eckpunkte im kartesischen Koordinatenraum definiert.
 *   **Transformation:** Die digitalen Modelldaten werden nach mathematischen Regeln der perspektivischen Darstellung auf die Bildebene transformiert und als Linienmodell ausgegeben.
+*   **Bearbeitung:** Die entwickelten 2D- oder 3D-Grafiken können im Grafikeditor mit umfangreichen Funktionen weiter bearbeitet werden.
+*   **Animation:** Betrachterbewegungssequenzen wie Hinein-, Hindurch-, Vorbeigehen, Überflug, Untersichten, Schwenke sowie freie Wege programmierbar.
+*   **Kameratechnik:**  freie Brennweitenwahl (Froschauge  bis Superteleobjektiv)
 
 # Arbeitsproben
 
