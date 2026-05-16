@@ -74,7 +74,7 @@ Das Programm folgt dem Prinzip eines digitalen Baukastens. Nutzer erstellen „M
   <img src="/Bilder/car2.png"  />
 </p>
 
-Auch "Hochauflösende" Grafik (512x760 Pixel) kann mit dem Grafikeditor erstellt und mit einen Drucker oder Plotter ausgegeben werden. 
+Auch "Hochauflösende" Grafik (760x512 Pixel) kann mit dem Grafikeditor erstellt und mit einen Drucker oder Plotter ausgegeben werden. 
 
 <p float="left">
   <img src="/Bilder/cartota-hgr.png"  />
